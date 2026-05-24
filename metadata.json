@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Mobiles",
+  "description": "A next-generation futuristic luxury mobile e-commerce platform blending cyberpunk luxury with Cupertino simplicity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
